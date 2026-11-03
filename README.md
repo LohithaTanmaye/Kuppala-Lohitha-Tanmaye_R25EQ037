@@ -46,4 +46,27 @@ I'm currently building my foundation in programming and exploring tools that hel
 - Improving my coding and development skills
 
 ---
+## 🎯 My Goals
+
+- Strengthen my programming fundamentals.
+- Become confident in problem-solving.
+- Build meaningful real-world projects.
+- Improve my understanding of software development.
+- Grow as a developer through continuous learning and collaboration.
+
+---
+
+## 📌 My Developer Journey
+
+Every expert was once a beginner. I'm documenting my learning journey one step, one project, and one commit at a time.
+
+**Learn. Build. Improve. Repeat.** 💡
+
+---
+
+### 🤝 Let's Connect & Grow Together!
+
+I'm always open to learning, sharing ideas, and collaborating on interesting projects.
+
+Thanks for visiting my profile! ⭐
 
