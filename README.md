@@ -1,5 +1,5 @@
 # Kuppala-Lohitha-Tanmaye_R25EQ037
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Kuppala Lohitha Tanmaye
 
 ### 🎓 Student | Aspiring Software Developer | Lifelong Learner
 
@@ -56,10 +56,25 @@ I'm currently building my foundation in programming and exploring tools that hel
 
 ---
 
-## 📌 My Developer Journey
+## 📌 My projects
 
-Every expert was once a beginner. I'm documenting my learning journey one step, one project, and one commit at a time.
+Projects
 
+1. Flight Price Predictor
+
+Developed a machine learning project using Python to predict airline ticket prices based on airline, source, destination, travel duration, and number of stops.
+
+2. 2D Graphics Editor
+
+Developed a 2D Graphics Editor using C, implementing computer graphics concepts for creating, displaying, and manipulating graphical objects.
+
+3. SkillTrace – SIH
+
+Developed a full-stack application focused on skill tracking and management, helping users monitor their skills and learning progress.
+
+4. VoteConnect – Online Voting Information System
+
+Developed a web-based application to manage voter information, candidate details, and voter registration with administrative management features.
 **Learn. Build. Improve. Repeat.** 💡
 
 ---
